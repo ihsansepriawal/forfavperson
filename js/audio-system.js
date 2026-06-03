@@ -17,7 +17,7 @@ const playlist = [
     title:     'Sesi Potret',
     artist:    'eńau feat Ari Lesmana',
     file:      'music/sesi-potret.mp3',
-    cover:     'assets/music-cover/song1.jpeg',
+    cover:     'assets/images/cover.jpeg',
     startTime: 0,       // seconds — where playback begins
     endTime:   null,    // seconds — where it ends/loops (null = full track)
     loopStart: null,    // loop rewind point (null = startTime)
